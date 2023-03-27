@@ -8,21 +8,11 @@ Therefore, we will use Node.js/Python to do what C++ cannot do instead.
 
 ## Install
 
-[npm](https://www.npmjs.com/) is required for installation.
+[Aqua Tools Installer(ati)](https://github.com/e6nlaq/aqua),[npm](https://www.npmjs.com/),[pip3](https://pypi.org/),[Python3](https://www.python.org/) are required for installation.
 
 Execute the following command
 
 ```bash
-npm install git+https://github.com/e6nlaq/aqua-tools.git
-```
-
-Some Python scripts require external modules.
-
-Run the script in the `install/` folder.
-
-The modules to be installed are as follows
-
-```
-pyautogui
-requests
+ati init
+ati pyinstall
 ```
