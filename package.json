@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/e6nlaq/aqua-tools/issues"
   },
-  "homepage": "https://github.com/e6nlaq/aqua-tools#readme"
+  "homepage": "https://github.com/e6nlaq/aqua-tools#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
 }

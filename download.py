@@ -1,6 +1,6 @@
 
 # Aqua Tools
-# web/download.py
+# download.py
 
 import requests
 import sys

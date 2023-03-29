@@ -1,6 +1,6 @@
 
 // Aqua Tools
-// web / download.js
+// download.js
 
 const https = require('https');
 const fs = require('fs');
