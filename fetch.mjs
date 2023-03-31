@@ -10,12 +10,6 @@ function write(data) {
 }
 
 async function get(url, method = "GET", data = "") {
-
-	// const urla = 'https://api.github.com/users/ekzemplaro'
-	// const response = await fetch(urla)
-	// const body = await response.text()
-
-	// fs.writeFileSync("./return.txt", body);
 	if (data == "") {
 		if (method != "GET") {
 			const response = await fetch(url, { method: method });

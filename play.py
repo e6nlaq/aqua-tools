@@ -1,6 +1,6 @@
 
 # Aqua Tools
-# sound / play.py
+# play.py
 
 import playsound
 import sys
