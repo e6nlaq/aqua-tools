@@ -4,11 +4,10 @@
 
 import requests
 import sys
-import codecs
 
 
 def write(data):
-    f = codecs.open("./return.txt", "w", encoding="utf-8")
+    f = open("./return.txt", "w", encoding="utf-8")
     f.write(data)
     f.close()
 
