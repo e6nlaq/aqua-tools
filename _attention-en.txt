@@ -1,0 +1,9 @@
+
+Caution.
+Never delete these files.
+Deleting them may cause unstable operation.
+
+If you want to uninstall them, do not do it manually,
+Run `$ npm uninstall aqua-tools` instead of uninstalling them manually.
+
+e6nlaq
