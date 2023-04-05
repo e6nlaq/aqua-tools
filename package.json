@@ -4,7 +4,7 @@
   "description": "Aqua Extension Library",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Aqua Tools is installed!\" && exit 0"
   },
   "repository": {
     "type": "git",

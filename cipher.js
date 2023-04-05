@@ -6,7 +6,7 @@ const crypto = require('crypto');
 const fs = require('fs');
 
 function write(data) {
-	fs.writeFileSync("./return.txt", data);
+	fs.writeFileSync("./node_modules/aqua-tools/return.txt", data);
 }
 
 const args = process.argv;

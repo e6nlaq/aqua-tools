@@ -6,7 +6,7 @@ import fetch from 'node-fetch'
 import fs from 'fs'
 
 function write(data) {
-	fs.writeFileSync("./return.txt", data);
+	fs.writeFileSync("./node_modules/aqua-tools/return.txt", data);
 }
 
 async function get(url, method = "GET", data = "") {
