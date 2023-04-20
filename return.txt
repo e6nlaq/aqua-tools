@@ -3,4 +3,4 @@ NEVER DELETE THIS FILE!
 IT MAY CAUSE PROBLEMS AND MAY NOT WORK PROPERLY!
 
 このファイルを決して削除しないでください!
-不具合が起こり、正常に動作しない可能性があります!!
+不具合が起こり、正常に動作しない可能性があります!
